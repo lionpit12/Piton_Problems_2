@@ -1,0 +1,6 @@
+Ivanov 34000 
+Petrov 15000 
+Sidorov 50000 
+Johnson 25000
+Lee 30000
+Ok 15000
